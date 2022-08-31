@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="240cf20a-0e38-4d97-86f9-27a57e2cc4e7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="21McwbQnz7lZ7PyKRVVu4sTNCQ1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.karthik.springboot.repository" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.karthik.springboot.repository" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.EmployeeRespositoryIT">
+    <configuration name="EmployeeControllerITests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.karthik.springboot.integration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.karthik.springboot.integration" />
+      <option name="MAIN_CLASS_NAME" value="com.karthik.springboot.integration.EmployeeControllerITests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeControllerITests.givenEmployeeId_whenDeleteEmployee_thenReturn200" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.karthik.springboot.integration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.karthik.springboot.integration" />
+      <option name="MAIN_CLASS_NAME" value="com.karthik.springboot.integration.EmployeeControllerITests" />
+      <option name="METHOD_NAME" value="givenEmployeeId_whenDeleteEmployee_thenReturn200" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeControllerITests.givenUpdatedEmployee_whenUpdateEmployee_thenReturn404" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.karthik.springboot.integration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.karthik.springboot.integration" />
+      <option name="MAIN_CLASS_NAME" value="com.karthik.springboot.integration.EmployeeControllerITests" />
+      <option name="METHOD_NAME" value="givenUpdatedEmployee_whenUpdateEmployee_thenReturn404" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeControllerITests.givenUpdatedEmployee_whenUpdateEmployee_thenReturnUpdateEmployeeObject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.karthik.springboot.integration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.karthik.springboot.integration" />
+      <option name="MAIN_CLASS_NAME" value="com.karthik.springboot.integration.EmployeeControllerITests" />
+      <option name="METHOD_NAME" value="givenUpdatedEmployee_whenUpdateEmployee_thenReturnUpdateEmployeeObject" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeRespositoryIT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.karthik.springboot.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.karthik.springboot.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.karthik.springboot.repository.EmployeeRespositoryIT" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EmployeeRespositoryIT" />
+        <item itemvalue="JUnit.EmployeeControllerITests" />
+        <item itemvalue="JUnit.EmployeeControllerITests.givenEmployeeId_whenDeleteEmployee_thenReturn200" />
+        <item itemvalue="JUnit.EmployeeControllerITests.givenUpdatedEmployee_whenUpdateEmployee_thenReturn404" />
+        <item itemvalue="JUnit.EmployeeControllerITests.givenUpdatedEmployee_whenUpdateEmployee_thenReturnUpdateEmployeeObject" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="240cf20a-0e38-4d97-86f9-27a57e2cc4e7" name="Default Changelist" comment="" />
+      <created>1637754635851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637754635851</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
